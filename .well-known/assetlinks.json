@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.film.apps",
+  "target" : { "namespace": "android_app", "package_name": "com.film.apps.filmapp",
                "sha256_cert_fingerprints": ["C6:D9:C8:20:65:C8:4C:19:C1:0A:B7:66:A1:BD:32:EF:13:4A:6F:6F:E4:0D:EA:D4:AB:56:6D:13:C4:EA:22:4C"] }
 }]
